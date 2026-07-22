@@ -89,6 +89,11 @@ The Polynomial Regression model successfully captures the nonlinear relationship
 
 ---
 
+## Conclusion
+
+This project successfully demonstrates the implementation of Polynomial Regression for predicting employee salaries based on position level. By transforming the input feature using Polynomial Features (Degree = 3) and training a Linear Regression model on the transformed data, the model effectively captures the nonlinear relationship present in the dataset. The evaluation metrics, including MAE, MSE, and an R² Score of **0.8763**, indicate good predictive performance. Overall, Polynomial Regression proved to be an effective approach for modeling salary prediction on the given dataset.
+
+
 ---
 
 ## Screenshots
