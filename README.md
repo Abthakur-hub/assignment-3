@@ -102,7 +102,8 @@ This project successfully demonstrates the implementation of Polynomial Regressi
 
 This figure shows the relationship between the employee **Position Level** and **Salary** in the original dataset.
 
-![Scatter Plot of the Original Data](images/scatter_plot.png)
+<img width="726" height="494" alt="Screenshot 2026-07-22 at 9 58 34 PM" src="https://github.com/user-attachments/assets/e0b18fd4-0a71-4a34-837c-c5a56c22e4ee" />
+
 
 ---
 
@@ -110,7 +111,8 @@ This figure shows the relationship between the employee **Position Level** and *
 
 This figure shows the fitted **Polynomial Regression** model along with the original data points, illustrating the nonlinear relationship between position level and salary.
 
-![Polynomial Regression Curve](images/polynomial_regression_curve.png)
+<img width="719" height="489" alt="Screenshot 2026-07-22 at 9 58 46 PM" src="https://github.com/user-attachments/assets/3ade22d7-c4df-4ab1-8061-683fdd6b9732" />
+
 
 ---
 
