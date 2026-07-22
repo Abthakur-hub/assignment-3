@@ -20,6 +20,21 @@ Polynomial Regression for Salary Prediction using Scikit-learn
 This assignment implements a **Polynomial Regression** model to predict employee salaries based on their position level. The Position Salaries dataset is used to understand the nonlinear relationship between position level and salary. The model is developed using **Polynomial Features (Degree = 3)** along with **Linear Regression**, which together form the Polynomial Regression model.
 
 ---
+## Dataset
+
+**Dataset Name:** Position Salaries Dataset
+
+**Source:** https://www.kaggle.com/datasets/akram24/position-salaries
+
+The dataset contains salary information for different employee position levels. It is used to demonstrate Polynomial Regression for predicting salary based on position level.
+
+**Input Feature (X):**
+- Level
+
+**Target Variable (y):**
+- Salary
+
+---
 
 ## Objectives
 
